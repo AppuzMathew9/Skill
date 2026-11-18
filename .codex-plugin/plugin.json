@@ -1,0 +1,29 @@
+{
+  "name": "design-and-writing-suite",
+  "version": "1.0.0",
+  "description": "A comprehensive bundle of UI/UX design, interface architecture, design systems, web guidelines, and prose humanization skills.",
+  "author": {
+    "name": "Plugin Author"
+  },
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "frontend",
+    "ui-ux",
+    "design-system",
+    "accessibility",
+    "writing"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Design & Writing Suite",
+    "shortDescription": "UI/UX design, design systems, interface architecture, and prose editing skills.",
+    "longDescription": "A curated suite of six specialized agent skills for product design and writing workflows. Includes tools to explore radically different module interfaces, build distinctive frontend UIs, architect three-layer design token systems and presentations, audit web interfaces against accessibility and UX best practices, capture user design taste into persistent rules, and edit prose to remove robotic AI writing patterns.",
+    "developerName": "Plugin Author",
+    "category": "Creativity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ]
+  }
+}

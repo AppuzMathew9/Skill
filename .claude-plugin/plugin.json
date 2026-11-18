@@ -1,0 +1,10 @@
+{
+  "name": "design-and-writing-suite",
+  "version": "1.0.0",
+  "description": "A comprehensive bundle of UI/UX design, interface architecture, design systems, web guidelines, and prose humanization skills.",
+  "author": {
+    "name": "Plugin Author"
+  },
+  "license": "MIT",
+  "skills": "./skills/"
+}
